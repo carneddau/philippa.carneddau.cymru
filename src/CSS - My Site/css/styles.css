@@ -1,0 +1,77 @@
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Shippori Mincho B1', serif; */
+/* green: #2bd680
+black: #000000
+dark grey: #a4afc1
+light grey: #efefef
+another grey: #bbbbbb */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+hr {
+  height: 1px;
+  background-color: #30475e;
+  border: none;
+}
+
+/* top section */
+.name-container {
+  background-color: #000000;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.im-philippa {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  color: #2bd680;
+}
+
+.a-programmer {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  color: #2bd680;
+}
+
+.asteroid {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.planet {
+  position: absolute;
+  left: 300px;
+  top: 150px;
+}
+
+/* circle picture I like drinking strong tea section */
+.circle-image-container {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+/* skills section */
+.skills-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.skills-row {
+  padding-top: 500px;
+  padding-bottom: 50px;
+}
+
+/* .links-container {} */
